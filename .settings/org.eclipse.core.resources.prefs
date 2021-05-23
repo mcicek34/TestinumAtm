@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/com/testinium/atm/Main.java=UTF-8
+encoding//src/com/testinium/atm/core/InvalidNumberException.java=UTF-8
+encoding//src/com/testinium/atm/dataAccess/concrete/HibernateCustomerDao.java=UTF-8
